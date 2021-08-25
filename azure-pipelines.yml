@@ -6,6 +6,7 @@ pool:
   vmImage: 'MyAgentPool'
   demands:
   - npm
+  
 
 variables:
   buildConfiguration: 'Release'
